@@ -1,6 +1,5 @@
-- 🌱 I’m currently learning JavaScript/ CSS / HTML
+- 📕 I’m currently learning JavaScript/ CSS / HTML
 - 📫 How to reach me: Thiagopace2002@gmail.com
-- 😄 Pronouns: he/his
 
 <div align="center">
 <a href="https://github.com/rafaballerini">
