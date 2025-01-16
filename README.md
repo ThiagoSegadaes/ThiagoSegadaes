@@ -1,4 +1,4 @@
-- 📕 I’m currently learning JavaScript/ CSS / HTML
+- 📕 I’m currently learning how to code with JavaScript
 - 📫 How to reach me: Thiagopace2002@gmail.com
 <div align="center">
 <a href="https://github.com/rafaballerini">
